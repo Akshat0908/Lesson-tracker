@@ -24,25 +24,6 @@ A beautiful and intuitive lesson management application built for the CodeCircui
 - **Build Tool**: Vite
 - **Package Manager**: npm
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/lessontrack.git
-   cd lessontrack
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ## 🎯 Key Features Explained
 
@@ -86,13 +67,6 @@ A beautiful and intuitive lesson management application built for the CodeCircui
    - Efficient state management
    - Minimal re-renders
 
-## 🔑 Code Quality
-
-- TypeScript for type safety
-- ESLint for code quality
-- Prettier for consistent formatting
-- Component-based architecture
-- Clean and maintainable code structure
 
 ## 📱 Responsive Design
 
@@ -126,7 +100,7 @@ MIT License - feel free to use this project for learning or as a starting point 
 
 - CodeCircuit Hackathon for the opportunity
 - The open-source community for the amazing tools
-- All contributors and testers
+
 
 ---
 
